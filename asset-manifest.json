@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yuvaltimen.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/yuvaltimen.github.io/static/js/main.c0040927.chunk.js",
+    "main.js.map": "/yuvaltimen.github.io/static/js/main.c0040927.chunk.js.map",
+    "runtime-main.js": "/yuvaltimen.github.io/static/js/runtime-main.48e7cbfe.js",
+    "runtime-main.js.map": "/yuvaltimen.github.io/static/js/runtime-main.48e7cbfe.js.map",
+    "static/js/2.3129561b.chunk.js": "/yuvaltimen.github.io/static/js/2.3129561b.chunk.js",
+    "static/js/2.3129561b.chunk.js.map": "/yuvaltimen.github.io/static/js/2.3129561b.chunk.js.map",
+    "static/js/3.5d99f34d.chunk.js": "/yuvaltimen.github.io/static/js/3.5d99f34d.chunk.js",
+    "static/js/3.5d99f34d.chunk.js.map": "/yuvaltimen.github.io/static/js/3.5d99f34d.chunk.js.map",
+    "index.html": "/yuvaltimen.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/yuvaltimen.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3129561b.chunk.js.LICENSE.txt": "/yuvaltimen.github.io/static/js/2.3129561b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yuvaltimen.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48e7cbfe.js",
+    "static/js/2.3129561b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c0040927.chunk.js"
+  ]
+}
