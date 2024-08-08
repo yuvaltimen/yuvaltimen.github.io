@@ -19,7 +19,7 @@ img {
   width: auto;
 }
 
-p {
+p, a {
     text-align: center;
 }
 
@@ -43,6 +43,8 @@ p {
 }
 
 .bullet-box {
-  background-color: blue;
-  display: inline;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
 }
