@@ -1,0 +1,48 @@
+html {
+    background-image: linear-gradient(#bfb9a6, #ded7c3);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2, h3, h4 {
+    text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  height: 300px;
+  width: auto;
+}
+
+p {
+    text-align: center;
+}
+
+.propic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.about-me {
+  position: relative;
+  z-index: 1;
+  border: solid;
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
+
+.bullet-box {
+  background-color: blue;
+  display: inline;
+}
